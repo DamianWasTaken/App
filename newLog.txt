@@ -1,0 +1,1 @@
+new log error to get used to using Git consistently - Day 2
